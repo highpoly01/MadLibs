@@ -1,8 +1,8 @@
 //============================================================================
 // Name        : MadLibs.cpp
-// Author      : 
+// Author      : Marc Keen
 // Version     :
-// Copyright   : by marc keen. Free to use.
+// Copyright   : Free to use.
 // Description : Mad:Libs in C++, Ansi-style
 //============================================================================
 
