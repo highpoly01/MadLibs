@@ -1,9 +1,9 @@
 //============================================================================
-// Name        : helloWorld.cpp
+// Name        : MadLibs.cpp
 // Author      : 
 // Version     :
-// Copyright   : Your copyright notice
-// Description : Hello World in C++, Ansi-style
+// Copyright   : by marc keen. Free to use.
+// Description : Mad:Libs in C++, Ansi-style
 //============================================================================
 
 #include<iostream>
@@ -24,6 +24,7 @@ int main() {
 	bool g = true;
 
 	while (g) {
+
 		std::cout << "Choose a NOUN below\n";
 		std::cout << "1) Toothbrush\n";
 		std::cout << "2) Bus\n";
@@ -56,6 +57,7 @@ int main() {
 	bool h = true;
 
 	while (h) {
+
 		std::cout << "Choose a VERB below\n";
 		std::cout << "1) Gargling\n";
 		std::cout << "2) Throwing\n";
@@ -88,6 +90,7 @@ int main() {
 	bool i = true;
 
 	while (i) {
+
 		std::cout << "Choose an ADJECTIVE below\n";
 		std::cout << "1) Flowery\n";
 		std::cout << "2) Spicy\n";
